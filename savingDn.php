@@ -57,7 +57,7 @@ if ($_POST) {
                 <td><?php echo $mostrar['name'] ?></td>
                 <td><?php switch ($mostrar['img']) {
                         case 'Juan':
-                            echo "<img style='width: 60px; height: 60px;' src='https://www.pngitem.com/pimgs/m/408-4089594_dango-daikazoku-png-6-png-image-dango.png' alt=''>";
+                            echo "<img style='width: 60px; height: 60px;' src='https://i.linio.com/p/bbf09fe95a7bd4d5a21735aabc124b41-product.jpg' alt=''>";
                             break;
                         case 'Pedro':
                             echo "<img style='width: 60px; height: 60px;' src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8l7-Rghh1aAqDlVK0fuQcGR29E0nWQzGubcg2FfFWwMIjDhoxzN6adoFmhGa0oTe4SSc&usqp=CAU' alt=''>";
